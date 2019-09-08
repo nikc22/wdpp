@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: bionic
+Date: Sun, 08 Sep 2019 02:33:02 UTC
+Architectures: arm64 amd64
+Components: main
+Description: WebDev Tools Repo
+MD5Sum:
+ c3f1c745571d63cf5078139629d8052b 706 main/binary-arm64/Packages
+ c224cc4c5270bdb4deeb391c0e703a56 497 main/binary-arm64/Packages.gz
+ 5c658eab94574b59ddcdc8142d086589 67 main/binary-arm64/Release
+ e21b08c5b3e64410c85320b408c0c583 706 main/binary-amd64/Packages
+ 54c62a9e97c86ba9992e43b2c6974140 497 main/binary-amd64/Packages.gz
+ 58e55d57d54273e864fd5b0d3746ab6c 67 main/binary-amd64/Release
+SHA1:
+ 8248f182175b8bac99c7d310300ac5e25136f816 706 main/binary-arm64/Packages
+ bc8eac2c62b0d37cad3bfabc09933613b867104a 497 main/binary-arm64/Packages.gz
+ 1a79c26c1044049fccaba1cff6112d461a438070 67 main/binary-arm64/Release
+ 822fa7c04c49da2b1422f73687414ed4a173c1b1 706 main/binary-amd64/Packages
+ a509dc35479bdf43d39fa22e04000a41989004fb 497 main/binary-amd64/Packages.gz
+ 3be231c3518c55642a44798fc422f273a651f283 67 main/binary-amd64/Release
+SHA256:
+ 35f9ae1dcc8aa6dac144995cb249f4cb906f842e9dfd95070b31d5a286006d9f 706 main/binary-arm64/Packages
+ 6b31ad8f7bc9ba1a13b56e823163ccf79bd1ff9ee2c17bf35b53e1d47878e342 497 main/binary-arm64/Packages.gz
+ 9fcdab034b05b25872271ccb03b03acf1fe8d2fee0eb6ea0aa84fae8d6f75574 67 main/binary-arm64/Release
+ 54390dbe4926e1c67ace6188ee0c3ba6abac5cc3bd469995274682b2127436df 706 main/binary-amd64/Packages
+ a12b07512c558e57ea29fe857f9142447536b18a299c840c0f4f1de237d93df4 497 main/binary-amd64/Packages.gz
+ ba9674231a38a70d752dbc318c49307c6dba61a9160e67a5706fa3cb83d769e5 67 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEtpa3kbqt4lYzTSfv7+msYCPieFoFAl10aF4ACgkQ7+msYCPi
+eFqH1wv/Z9A9AY10HqFvFqqEF3TPr5eVmnej4pJALyuLM5P/6jqb5UBPurvScIF/
+mEoi/bW2v8vGO742PQff1DXiDYBcVtxuPipkbY6lsll2Ch99n7cE3HnXVfS6+x2x
+uYHqhM5Ev5qELr1sAQSA/KpeRQQGTUnHAtYN8gmsXddzNO+90EemYw+F3+fpUqU5
+zmqF2oIOECDbcymlYvCc2bCh7guCq904kv5Lmd0mnIBxRBfQ1LGfNUPv7wYzL0l4
+yi5dsFACx6xngXF3dGazqQRXDhQDbddj1x20v6A/MRiadak0a2lkss7QC/mqGIgy
+IJYpiqM7XFFL7MgK651CZT0DbSo+jPD+lJCNK9KrF4GV/O69kK483Vr6ng7EE9WF
+4GhgGosQ6/4pzIEXAVdOU2I9fg+vJDaOs/DDJxap2bLwFigz+418ityURtZUAEpo
+TP3IQWEahpjCvp7K4Rf4jD9lIdotCvnrrAb43+8hToP1WztJygpONIdAUccJdgss
+neM1e9WI
+=SdUu
+-----END PGP SIGNATURE-----

@@ -1,0 +1,17 @@
+Package: piprint
+Version: 1.1.0ubuntu1
+Architecture: arm64
+Maintainer: Nik <nikc223a@gmail.com>
+Installed-Size: 15
+Depends: python3, hplip, openssh-server, cups, samba, avahi-daemon, cloudprint, cloudprint-service
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/main/p/piprint/piprint_1.1.0ubuntu1_arm64.deb
+Size: 3832
+SHA256: 7fe679c7dca149b66d0bcd02275eb2e0ddf38dd37753aedf4b374d559dfb5171
+SHA1: 04a72c6383e20d21e1a83c0fc9b2691902478935
+MD5sum: 93697e9e855317cea196c6efbee6d384
+Description: WebDev RPD2 package to setup heartbeat
+ This is the packages that installs the dependencies for RPD2 product and creates the cron jobs to ensure smooth running
+

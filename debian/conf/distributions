@@ -1,0 +1,5 @@
+Codename: bionic
+Architectures: arm64 amd64
+Components: main
+Description: WebDev Tools Repo
+SignWith: 88d1F09EC34D20B4
